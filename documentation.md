@@ -3,12 +3,12 @@
     - [Руководство по обновлению](/docs/{{version}}/upgrade)
     - [Участие в разработке](/docs/{{version}}/contributions)
     - [API](/api/{{version}})
-- Начала
+- Начало работы
     - [Установка](/docs/{{version}}/installation)
     - [Настройка](/docs/{{version}}/configuration)
     - [Структура приложения](/docs/{{version}}/structure)
     - [Жизненный цикл запроса](/docs/{{version}}/lifecycle)
-- Окружение девелопера
+- Окружение разработчика
     - [Homestead](/docs/{{version}}/homestead)
     - [Valet](/docs/{{version}}/valet)
 - Ключевые концепции
